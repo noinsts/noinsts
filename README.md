@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/5f28d705-3bc8-4138-8151-e12e0f9e9a23.svg)](https://wakatime.com/@5f28d705-3bc8-4138-8151-e12e0f9e9a23)
+
 ### Привіт!  Я Андрій
 
 ---
@@ -19,16 +21,11 @@
 
 ---
 
-**💻 IDE та інструменти:**
+**💻 IDE та операційні системи**
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Sublime Text](https://img.shields.io/badge/sublime%20text-%23575279.svg?style=for-the-badge&logo=sublime-text&logoColor=white)](https://www.sublimetext.com/)
-
----
-
-**Операційні системи:**
-
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/uk-ua/windows/windows-11)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
