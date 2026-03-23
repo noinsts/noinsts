@@ -1,51 +1,33 @@
-<div align="center">
+# Hello, I'm Andriy
 
-[![wakatime](https://wakatime.com/badge/user/5f28d705-3bc8-4138-8151-e12e0f9e9a23.svg)](https://wakatime.com/@5f28d705-3bc8-4138-8151-e12e0f9e9a23)
+- 🌿 Software developer from Ukraine
+- ☔️ Focused on backend and competitive programming
+- 🦎 Exploring Linux, build Telegram bots, and organizing ideas
+- 🫐 Love chess and tasty coffee
 
-# Привіт, я noinsts 👋
+## What I Use
 
-### 📚 Студент-ентузіаст · 💻 Розробник · 🚀 Tech Enthusiast
+![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu2.svg)
+![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg)
+![Chessdotcom](https://ziadoua.github.io/m3-Markdown-Badges/badges/ChessDOTcom/chessdotcom2.svg)
+![Firefox](https://ziadoua.github.io/m3-Markdown-Badges/badges/Firefox/firefox2.svg)
+![Obsidian](https://ziadoua.github.io/m3-Markdown-Badges/badges/Obsidian/obsidian2.svg)
+![IDEA](https://ziadoua.github.io/m3-Markdown-Badges/badges/IDEA/idea2.svg)
+![Notion](https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion2.svg)
+![Spotify](https://ziadoua.github.io/m3-Markdown-Badges/badges/Spotify/spotify2.svg)
+![Win11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows112.svg)
+![Postman](https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman2.svg)
+![GitHub](https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg)
+![Discord](https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg)
+![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg)
 
-</div>
 
----
 
-🚀 Працюю над проєктами в різних сферах — від ботів до десктопних застосунків. 
-Я вірю, що хороше рішення має бути не складним, а правильним.
+## Skills
 
-> Люблю капучіно, дощ і код без зайвого шуму.
-
-### 🧠 Технології та інструменти
-
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-563d7c?&style=flat&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-3.x-3DDC84?style=flat&logo=telegram&logoColor=white)
-![teloxide](https://img.shields.io/badge/teloxide-0.17-0088CC?style=flat&logo=telegram&logoColor=white)
-![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![GTK](https://img.shields.io/badge/GTK-476D43?style=flat&logo=gtk&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=flat&logo=sqlalchemy&logoColor=white)
-![Diesel](https://img.shields.io/badge/Diesel-000000?style=flat&logo=diesel&logoColor=white)
-
-### 🚀 Основний проєкт
-**[Lyceum-3](https://github.com/noinsts/lyceum-3)** — багатофункціональний шкільний бот. Містить розклад, адміністративні інструменти, нагадування та інші фічі, адаптовані для навчального середовища.
-
-### 🎯 Інтереси
-- Олімпіадне програмування 🏆
-- Створення ботів для  Telegram та Discord 🤖
-- Чистий і підтримуваний код ✨
-- Десктопні застосунки з простим UI 💻
-
----
-
-<div align="center">
-
-### 💬 Готовий до нових викликів та цікавих проєктів!
-
-</div>
+![Docker](https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker2.svg)
+![Markdown](https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown2.svg)
+![PostgreSQL](https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql2.svg)
+![c++](https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++2.svg)
+![Java](https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg)
+![Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg)
